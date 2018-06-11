@@ -1,0 +1,6 @@
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\bin\Debug\Bataille Navale.exe.config
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\bin\Debug\Bataille Navale.exe
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\bin\Debug\Bataille Navale.pdb
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\obj\Debug\Bataille Navale.csproj.CoreCompileInputs.cache
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\obj\Debug\Bataille Navale.exe
+C:\Users\Travail\Documents\GitHub\projet-2018-bataille-navale\Bataille Navale\obj\Debug\Bataille Navale.pdb
